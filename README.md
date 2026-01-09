@@ -1,47 +1,77 @@
-<h1 align="center">Hi There!! I'm <font color="red">KARTHICK C</font>👋</h1>
+## Hi, I'm **Karthick C**, a Full Stack & Game Developer 🚀.
+
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY">
+
+- 🔭 Passionate **Full Stack Developer & Unity Enthusiast**.
+- 💻 Skilled in **Frontend, Backend, Unity Development, Data Analytics**.
+- 🧠 Always curious about how things work internally.
+- 🌱 Learning new technologies every day to level up.
+- 🚀 Interested in **Web Development, Game Dev, and Cloud**.
+- 📧 Reach me at **ckarthick2004@gmail.com**.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/karthick-c-a1410k/).
 
 ---
 
-## 🧑‍💻 About Me
-
-- I enjoy coding and interested to learn more. 🐧.
-- I'm a knowledge seeker & I love learning **new technologies**.
-- Passionate about **Web Development**, **Frontend**, **Backend**, **Unity Development** and **Data analytics**.
-- Always curious about how things work internally 🤔.
-
----
-
-## 🚀 Skills & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
-<img src="https://skillicons.dev/icons?i=ts" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-<img src="https://skillicons.dev/icons?i=go" height="40"/>
-<img src="https://skillicons.dev/icons?i=spring" height="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-<img src="https://skillicons.dev/icons?i=unity" height="40"/>
-<img src="https://skillicons.dev/icons?i=postman" height="40"/>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Karthick....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ---
 
-# 📌 Connect With Me
+## 🛠️ Skills
 
-<p align="center">
-<a href="https://www.linkedin.com/in/karthick-c-a1410k/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/karthick-0105"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
+## Technologies  
+
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code)
 
 ---
 
-> *"The Moment you accept your trueself...You grow"*
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+---
+
+## 🤝 Let's Connect!
+
+If you'd like to collaborate or discuss cool ideas, feel free to reach out:
+
+- Email: **ckarthick2004@gmail.com**
+- LinkedIn: [linkedin.com/in/karthick-c-a1410k](https://www.linkedin.com/in/karthick-c-a1410k/)
+- GitHub: [github.com/karthick-0105](https://github.com/karthick-0105)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+> *"The moment you accept your true self… you grow."* 🌱
