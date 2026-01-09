@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+There!!+I'm+KARTHICK+C+👋" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi There!! I'm <font color="red">KARTHICK C</font>👋</h1>
 
 ---
 
