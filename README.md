@@ -13,22 +13,22 @@
 ## 🚀 Skills & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js" height="30"/>
-<img src="https://skillicons.dev/icons?i=ts" height="30"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=ts" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="20"/>
-<img src="https://skillicons.dev/icons?i=react" height="20"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="20"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="20"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="20"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="20"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="20"/>
-<img src="https://skillicons.dev/icons?i=go" height="20"/>
-<img src="https://skillicons.dev/icons?i=spring" height="20"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="20"/>
-<img src="https://skillicons.dev/icons?i=unity" height="20"/>
-<img src="https://skillicons.dev/icons?i=postman" height="20"/>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+<img src="https://skillicons.dev/icons?i=go" height="40"/>
+<img src="https://skillicons.dev/icons?i=spring" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=unity" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40"/>
   
 </p>
 
