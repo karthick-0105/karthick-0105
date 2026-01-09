@@ -1,6 +1,12 @@
-<h1 align="center">Hi There!! I'm <font color="#red">KARTHICK C</font>👋</h1>
-
-
+<p align="center">
+  <img src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='650' height='80'>
+    <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle'
+      font-size='40' font-family='Arial' fill='white'>Hi There!! I'm</text>
+    <text x='50%' y='83%' dominant-baseline='middle' text-anchor='middle'
+      font-size='40' font-family='Arial' fill='red'>KARTHICK C 👋</text>
+  </svg>"/>
+</p>
 
 ---
 
