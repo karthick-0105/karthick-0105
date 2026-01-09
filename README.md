@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!! I'm <font color="#FF0000">KARTHICK C</font>👋</h1>
+<h1 align="center">Hi There!! I'm <font color="#red">KARTHICK C</font>👋</h1>
 
 
 
