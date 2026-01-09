@@ -1,14 +1,4 @@
-<h1 align="center">Hi There!! I'm 
-  <font color="#FF0000">K</font>
-  <font color="#FF7F00">A</font>
-  <font color="#FFFF00">R</font>
-  <font color="#00FF00">T</font>
-  <font color="#0000FF">H</font>
-  <font color="#4B0082">I</font>
-  <font color="#9400D3">C</font>
-  <font color="#FF1493">K</font>
-  <font color="#FFD700"> C</font>
- 👋</h1>
+<h1 align="center">Hi There!! I'm <font color="#FF0000">KARTHICK C</font>👋</h1>
 
 
 
