@@ -13,10 +13,10 @@
 ## 🚀 Skills & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js" height="20"/>
-<img src="https://skillicons.dev/icons?i=ts" height="20"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="20"/>
-<img src="https://skillicons.dev/icons?i=python" height="20"/>
+<img src="https://skillicons.dev/icons?i=js" height="30"/>
+<img src="https://skillicons.dev/icons?i=ts" height="30"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" height="20"/>
 <img src="https://skillicons.dev/icons?i=react" height="20"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="20"/>
