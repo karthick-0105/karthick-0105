@@ -1,18 +1,18 @@
-<h1 align="center">Hello!! I'm <span style="color:#4da6ff">MR.K</span> 👋</h1>
+<h1 align="center">Hi There!! I'm <span style="color:#4da6ff">KARTHICK C</span> 👋</h1>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- I enjoy working in the **Linux environment** 🐧.
+- I enjoy coding and interested to learn more. 🐧.
 - I'm a knowledge seeker & I love learning **new technologies**.
-- Passionate about **Web Development**, **Backend**, and **System Design**.
+- Passionate about **Web Development**,**Frontend**, **Backend**,**Unity Development** and **Data analytics**.
 - Always curious about how things work internally 🤔.
 
 ---
 ## 🚀 Skills & Technologies
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js" height="20"/>
 <img src="https://skillicons.dev/icons?i=ts" height="20"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="20"/>
@@ -30,13 +30,6 @@
 <img src="https://skillicons.dev/icons?i=unity" height="20"/>
 <img src="https://skillicons.dev/icons?i=postman" height="20"/>
   
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen" />
 </p>
 
 ---
