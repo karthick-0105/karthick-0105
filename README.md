@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='650' height='80'>
-    <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle'
-      font-size='40' font-family='Arial' fill='white'>Hi There!! I'm</text>
-    <text x='50%' y='83%' dominant-baseline='middle' text-anchor='middle'
-      font-size='40' font-family='Arial' fill='red'>KARTHICK C 👋</text>
-  </svg>"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+There!!+I'm+KARTHICK+C+👋" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,10 +8,11 @@
 
 - I enjoy coding and interested to learn more. 🐧.
 - I'm a knowledge seeker & I love learning **new technologies**.
-- Passionate about **Web Development**,**Frontend**, **Backend**,**Unity Development** and **Data analytics**.
+- Passionate about **Web Development**, **Frontend**, **Backend**, **Unity Development** and **Data analytics**.
 - Always curious about how things work internally 🤔.
 
 ---
+
 ## 🚀 Skills & Technologies
 
 <p align="center">
@@ -38,10 +33,10 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 <img src="https://skillicons.dev/icons?i=unity" height="40"/>
 <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  
 </p>
 
 ---
+
 # 📌 Connect With Me
 
 <p align="left">
