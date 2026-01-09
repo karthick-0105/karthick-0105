@@ -26,7 +26,7 @@
 ## 🛠️ Skills
 
 ## Technologies  
-
+<p>
 <img src="https://skillicons.dev/icons?i=html" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" height="40"/> 
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
@@ -39,6 +39,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
 <img src="https://skillicons.dev/icons?i=unity" height="40"/> 
 <img src="https://skillicons.dev/icons?i=postman" height="40"/> 
+</p>
 
 ---
 
