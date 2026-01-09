@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="20"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
