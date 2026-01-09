@@ -2,7 +2,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - I enjoy working in the **Linux environment** 🐧.
 - I'm a knowledge seeker & I love learning **new technologies**.
@@ -10,43 +10,26 @@
 - Always curious about how things work internally 🤔.
 
 ---
-
-# 📌 Connect With Me
-
-<p align="left">
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
-
----
-
 ## 🚀 Skills & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
-<img src="https://skillicons.dev/icons?i=ts" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=android" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
+<img src="https://skillicons.dev/icons?i=js" height="20"/>
+<img src="https://skillicons.dev/icons?i=ts" height="20"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="20"/>
+<img src="https://skillicons.dev/icons?i=python" height="20"/>
+<img src="https://skillicons.dev/icons?i=java" height="20"/>
+<img src="https://skillicons.dev/icons?i=react" height="20"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="20"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="20"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="20"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="20"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="20"/>
+<img src="https://skillicons.dev/icons?i=go" height="20"/>
+<img src="https://skillicons.dev/icons?i=spring" height="20"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="20"/>
+<img src="https://skillicons.dev/icons?i=unity" height="20"/>
+<img src="https://skillicons.dev/icons?i=postman" height="20"/>
+  
 </p>
 
 ---
@@ -54,6 +37,15 @@
 ## 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen" />
+</p>
+
+---
+# 📌 Connect With Me
+
+<p align="left">
+<a href="#"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="#"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="#"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
