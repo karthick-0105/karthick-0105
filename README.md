@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+There!!+I'm+KARTHICK+C+👋" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 🧑‍💻 About Me
