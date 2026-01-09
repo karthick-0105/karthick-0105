@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!! I'm <span style="color:#4da6ff">KARTHICK C</span> 👋</h1>
+<h1 align="center">Hi There!! I'm <span style="color:blue">KARTHICK C</span> 👋</h1>
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-> *"The Moment you accept your trueself..You grow"*
+> *"The Moment you accept your trueself...You grow"*
