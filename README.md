@@ -1,4 +1,5 @@
-<h1 align="center">Hi There!! I'm <span style="color:#00ff7f">KARTHICK C</span> 👋</h1>
+<h1 align="center">Hi There!! I'm <span style="color:#7CFC00">KARTHICK C</span> 👋</h1>
+
 
 ---
 
