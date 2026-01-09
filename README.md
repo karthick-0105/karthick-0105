@@ -37,9 +37,8 @@
 # 📌 Connect With Me
 
 <p align="left">
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://www.linkedin.com/in/karthick-c-a1410k/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/karthick-0105"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
