@@ -28,19 +28,20 @@
 ## Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" style="margin: 20px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=unity" height="40"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
+
 
 ---
 
