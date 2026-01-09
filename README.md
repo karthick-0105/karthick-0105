@@ -1,4 +1,4 @@
-## Hi, I'm **Karthick C**, a Full Stack & Game Developer 🚀.
+# Hi, I'm **Karthick C**, a Full Stack & Game Developer 🚀.
 
 ## 🌟 About Me
 
@@ -16,9 +16,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Karthick....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Karthick....;Nice+to+meet+you!&center=true&size=30&color=00FF6A">
   </a>
 </h1>
+
 
 ---
 
