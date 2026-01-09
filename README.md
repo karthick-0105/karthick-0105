@@ -45,7 +45,7 @@
 
 ---
 
-### Languages
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
