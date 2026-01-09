@@ -9,7 +9,7 @@
 - 🧠 Always curious about how things work internally.
 - 🌱 Learning new technologies every day to level up.
 - 🚀 Interested in **Web Development, Game Dev, and Cloud**.
-- 📧 Reach me at **ckarthick2004@gmail.com**.
+- 📧 Reach me at **ckarthick0105@gmail.com**.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/karthick-c-a1410k/).
 
 ---
